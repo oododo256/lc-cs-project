@@ -1,0 +1,19 @@
+videos, articles, tutorials:
+
+LINK                                                           | Title                                                                                                        | Use
+https://www.youtube.com/watch?v=2Ip8FWd6w60                    | Building a Digital Clock with Arduino Uno Rev4 WiFi's RTC and LED Matrix                                     | Research
+https://www.youtube.com/watch?v=gQYsUjT-IBo                    | Communicating from an Arduino to an HTML/JavaScript Webpage                                                  | Research
+https://github.com/codeadamca/arduino-to-nodejs                | arduino-to-nodejs GitHub Repo                                                                                | Research
+https://cs4760.csl.mtu.edu/2020/lectures/webusb-with-microbit  | WebUSB with Micro:bit                                                                                        | Research
+https://developer.chrome.com/docs/capabilities/usb             | Access USB Devices on the Web                                                                                | Research
+https://microbit.org/get-started/user-guide/data-logging/      | Microbit Datalogging                                                                                         | Research
+https://pubmed.ncbi.nlm.nih.gov/17151164/                      | Controlled trial of naturalistic dawn simulation and negative air ionization for seasonal affective disorder | Research
+https://www.youtube.com/watch?v=vvEN0-Rn0Dk                    | Micro:bit IoT Board: Thingspeak         
+
+https://www.palomar.edu/users/rmorrissette/Lectures/Stats/Regression/Regression.htm regression (predicting x from y)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10503965 exercise can improve sleep.
+https://www.sciencedirect.com/science/article/abs/pii/S1087079217301582 mood and sleep are linked
+
+https://www.currys.ie/smart-tech/smart-home/home-voice-control/smart-clocks smart alalrm clocks
+
+https://kitronik.co.uk/blogs/resources/get-started-with-zip-halo zip halo light ring
